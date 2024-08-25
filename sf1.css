@@ -14,3 +14,12 @@
 @import "schema";
 @import "structure";
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root {
+  font-family: "Nunito", sans-serif;
+}
+
+header, footer {
+  font-size: 0.6em;
+}
