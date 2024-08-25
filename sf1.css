@@ -1,0 +1,19 @@
+/* @theme leibniz */
+
+/*
+  ============================================
+    Created by Godefroy Borduas
+    version: 1.0
+    last update: 24 août 2024
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+section {
+  background: #f00;
+}
