@@ -1,4 +1,4 @@
-/* @theme leibniz */
+/* @theme sf1 */
 
 /*
   ============================================
@@ -14,6 +14,3 @@
 @import "schema";
 @import "structure";
 
-section {
-  background: #f00;
-}
